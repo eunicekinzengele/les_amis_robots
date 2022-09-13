@@ -30,7 +30,7 @@ console.log(data);
   return (
     <>
 
-<h1>MES AMIS ROBOTS APP</h1>
+<h1>MES AMIS ROBOTS </h1>
 
 <p className="input">
   <input type="text" placeholder='rechercher par nom' onChange={(e) =>setSearchName(e.target.value)}/>
